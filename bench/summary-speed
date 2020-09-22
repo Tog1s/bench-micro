@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 require_relative "support/speed_benchmarker"
 require_relative "support/speed_summary_table"
 

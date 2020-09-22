@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "~> 2.4"
+ruby "~> 2.5.8"
 
 # webservers
 gem "puma"
@@ -22,6 +22,7 @@ gem "roda"
 gem "sinatra"
 gem "syro"
 gem "watts"
+gem 'scorched'
 
 gem "actionpack"
 gem "railties"
